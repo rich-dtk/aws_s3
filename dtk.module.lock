@@ -1,0 +1,11 @@
+---
+aws/aws_stdlib:
+  version: master
+  modules:
+    dtk_stdlib/dtk_stdlib: master
+dtk_stdlib/dtk_stdlib:
+  version: master
+  modules:
+    dtk-provider/ruby-provider: 1.0.0
+dtk-provider/ruby-provider:
+  version: 1.0.0

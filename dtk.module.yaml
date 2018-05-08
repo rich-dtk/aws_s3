@@ -1,0 +1,8 @@
+---
+module: aws/s3
+version: master
+dependencies:
+  aws/aws_stdlib: master
+component_defs:
+  include:
+    attributes: 
